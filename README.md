@@ -1,7 +1,7 @@
 # retail-ecommerce-bi-analytics
 
 The Logic: Deconstructing the 194% Growth
-In this analysis, the **194% Growth** represents the "Extra" money earned on top of the previous year's base.
+In this analysis, the **194% Growth** represents the extra money earned on top of the previous year's base.
 
 Base Year (100%): $1,000,000
 Growth Amount (194%): $1,940,000 (New Revenue)
