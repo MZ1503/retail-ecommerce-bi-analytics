@@ -1,6 +1,6 @@
 # retail-ecommerce-bi-analytics
 
-The Logic: Deconstructing the 194% Growth in 2023
+Deconstructing the 194% Growth in 2023
 
 In this analysis, the 194% Growthrepresents the extra money earned on top of the previous year's base.
 
